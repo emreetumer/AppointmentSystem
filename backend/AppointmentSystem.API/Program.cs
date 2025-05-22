@@ -3,6 +3,7 @@ namespace AppointmentSystem.API
 {
     public class Program
     {
+        //ÝLK COOMÝT ÝÇÝN YAZDIÐIM YORUM SATIRI.
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
